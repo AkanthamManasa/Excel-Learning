@@ -5,7 +5,7 @@
 ---
 
 ## What I Learned Today
-(2-3 lines in your own words)
+I learned how pivot  table helps to summarize bid data and can show them in charts.VLOOKUP connects two tables with one column.
 
 ---
 
@@ -67,11 +67,12 @@ ON o.category = t.category
 ---
 
 ## What Confused Me Today
-(write honestly)
+While learning excel and learning sql at same time got little confusion in formulas and query syntax.
 
 ---
 
 ## How I Solved It
+By learning formulas and practicing helped a lot without jumping into sql syntax.
 
 ---
 
